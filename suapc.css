@@ -170,9 +170,11 @@ cursor: pointer;
 
 .main .calendar-btn {
   font-size: 40px;
-
-
 }
+
+/* #modal{
+  z-index: 900;
+} */
 
 .button{
   padding-right: 8px;
